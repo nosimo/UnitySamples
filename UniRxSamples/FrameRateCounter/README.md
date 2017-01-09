@@ -21,7 +21,7 @@ FrameRateCounter(Model)とGUIの繋ぎこみにFrameRateTextPresenterを追加�
 TakeUntilDestroy()ではOnCpmplete()が捕まえられる。  
 
 ## 参考
-[【Unity】 UniRxでFPSカウンタを作ってみる](http://qiita.com/toRisouP/items/1d0682e7a35cdb04bc38])
-[UniRx入門 その4 -Updateをストリームに変換する方法とメリット-](http://qiita.com/toRisouP/items/30c576c7b0a99f41fb87#_reference-a601a56d311789502d55)
-[UniRxのシンプルなサンプル その6(購読の停止)](http://qiita.com/Marimoiro/items/819ddb3e68aab7ee3b95)
-[Unityにおけるコルーチンの省メモリと高速化について、或いはUniRx 5.3.0でのその反映](http://neue.cc/2016/05/14_529.html)
+- [【Unity】 UniRxでFPSカウンタを作ってみる](http://qiita.com/toRisouP/items/1d0682e7a35cdb04bc38])
+- [UniRx入門 その4 -Updateをストリームに変換する方法とメリット-](http://qiita.com/toRisouP/items/30c576c7b0a99f41fb87#_reference-a601a56d311789502d55)
+- [UniRxのシンプルなサンプル その6(購読の停止)](http://qiita.com/Marimoiro/items/819ddb3e68aab7ee3b95)
+- [Unityにおけるコルーチンの省メモリと高速化について、或いはUniRx 5.3.0でのその反映](http://neue.cc/2016/05/14_529.html)
